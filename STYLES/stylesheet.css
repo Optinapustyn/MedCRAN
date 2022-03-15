@@ -116,6 +116,7 @@ body {
       display: flex;
       justify-content: space-between;
       align-items: center;
+      margin-bottom: 50px;
 }
 
 .index-main .index-main-introduction-div img {
@@ -124,5 +125,34 @@ body {
 
 .index-main .h3-purple-text {
       max-width: 400px;
+}
+
+.index-main .about-medcran-div-1 {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      margin-bottom: 30px;
+}
+
+.index-main .about-medcran-div-2 {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;  
+      flex-wrap: wrap;
+      margin-bottom: 50px;
+}
+
+.about-medcran-box-div img {
+      margin-bottom: 20px;
+}
+
+.about-medcran-box-div h3 {
+      margin-bottom: 20px;
+}
+
+.about-medcran-box-div p {
+      max-width: 350px;
+      margin-bottom: 30px;
 }
 /* INDEX MAIN END */

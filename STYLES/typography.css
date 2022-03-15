@@ -54,3 +54,21 @@
       font-size: 0.95rem;
 }
 /* H6 TYPOS END */
+
+/* FONT WEIGHTS START */
+.font-weight-300 {
+      font-weight: 300;
+}
+
+.font-weight-400 {
+      font-weight: 400;
+}
+
+.font-weight-500 {
+      font-weight: 500;
+}
+
+.font-weight-700 {
+      font-weight: 700;
+}
+/* FONT WEIGHTS END */

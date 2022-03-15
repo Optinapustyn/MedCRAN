@@ -29,8 +29,37 @@
 
             <main class="index-main">
                   <div class="index-main-introduction-div">
-                        <img width="500" src="../VECTORS/MedCRAN_DoctorsVector.svg" alt="MedCRAN Logo">
-                        <h3 class="h3-purple-text">MedCRAN is a free hospital automation system. Also, MIT-License open-source.</h3>
+                        <img width="450" src="../VECTORS/MedCRAN_DoctorsVector.svg" alt="MedCRAN Logo">
+                        <div>
+                              <h3 class="h3-purple-text">MedCRAN</h3>
+                              <h3>A free hospital automation system. Also, MIT-License open-source.</h3>
+                        </div>
+                  </div>
+                  
+                  <div class="about-medcran-div-1">
+                        <div class="about-medcran-box-div">
+                              <img width="281" src="../VECTORS/MedCRAN_EasyToUseVector.svg" alt="Easy To Use">
+                              <h3 class="h3-purple-text font-weight-300">Easy To Use</h3>
+                              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis soluta sit voluptate inventore numquam expedita aliquid perferendis dolores ducimus deserunt!</p>
+                        </div>
+                        <div class="about-medcran-box-div">
+                              <img width="350" src="../VECTORS/MedCRAN_EasyToManageVector.svg" alt="Easy To Use">
+                              <h3 class="h3-purple-text font-weight-300">Easy To Manage</h3>
+                              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis soluta sit voluptate inventore numquam expedita aliquid perferendis dolores ducimus deserunt!</p>
+                        </div>
+                  </div>
+
+                  <div class="about-medcran-div-2">
+                        <div class="about-medcran-box-div">
+                              <img width="292" src="../VECTORS/MedCRAN_FastVector.svg" alt="Easy To Use">
+                              <h3 class="h3-purple-text font-weight-300">Fast & Reliable</h3>
+                              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis soluta sit voluptate inventore numquam expedita aliquid perferendis dolores ducimus deserunt!</p>
+                        </div>
+                        <div class="about-medcran-box-div">
+                              <img width="350" src="../VECTORS/MedCRAN_SecureVector.svg" alt="Easy To Use">
+                              <h3 class="h3-purple-text font-weight-300">Secure & Unbreakable</h3>
+                              <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis soluta sit voluptate inventore numquam expedita aliquid perferendis dolores ducimus deserunt!</p>
+                        </div>
                   </div>
             </main>
       </body>
