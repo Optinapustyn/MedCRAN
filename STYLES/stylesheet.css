@@ -256,9 +256,15 @@ footer {
       }
 }
 
-@media screen and (max-width: 390px) {
+@media screen and (max-width: 393px) {
       .index-main .index-main-introduction-div img {
             width: 370px;
+      }
+}
+
+@media screen and (max-width: 375px) {
+      .index-main .index-main-introduction-div img {
+            width: 350px;
       }
 }
 /* MEDIA QUERIES END */
