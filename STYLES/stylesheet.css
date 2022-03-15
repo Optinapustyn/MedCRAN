@@ -255,4 +255,10 @@ footer {
             font-size: 1.5rem;
       }
 }
+
+@media screen and (max-width: 390px) {
+      .index-main .index-main-introduction-div img {
+            width: 370px;
+      }
+}
 /* MEDIA QUERIES END */
