@@ -121,7 +121,8 @@ body {
 
 .index-main .index-main-introduction-div img {
       margin-right: 20px;
-}
+      margin-bottom: 20px;
+}     
 
 .index-main .h3-purple-text {
       max-width: 400px;
@@ -132,7 +133,6 @@ body {
       justify-content: space-between;
       align-items: center;
       flex-wrap: wrap;
-      margin-bottom: 30px;
 }
 
 .index-main .about-medcran-div-2 {
@@ -140,7 +140,6 @@ body {
       justify-content: space-between;
       align-items: center;  
       flex-wrap: wrap;
-      margin-bottom: 50px;
 }
 
 .about-medcran-box-div img {
@@ -153,7 +152,7 @@ body {
 
 .about-medcran-box-div p {
       max-width: 350px;
-      margin-bottom: 10px;
+      margin-bottom: 30px;
 }
 /* INDEX MAIN END */
 
@@ -168,3 +167,92 @@ footer {
       border-top: 1px solid rgb(235, 235, 235);
 }
 /* FOOTER END */
+
+/* MEDIA QUERIES START */
+@media screen and (max-width: 768px) {
+      #easy-to-use-vector-img {
+            width: 250px;
+      }
+
+      #easy-to-manage-vector-img {
+            width: 311px;
+      }
+
+      #fast-and-reliable-vector-img {
+            width: 261px;
+      }
+
+      #secure-and-unbreakable-vector-img {
+            width: 311px;
+      }
+
+      .about-medcran-box-div p {
+            max-width: 250px;
+      }
+}
+
+@media screen and (max-width: 650px)
+{
+      .index-header {
+            justify-content: center;
+      }
+
+      .header-inputs {
+            display: none !important;
+      }
+
+      .index-main .index-main-introduction-div {
+            flex-wrap: wrap;
+            justify-content: center;
+      }
+
+      .index-main .index-main-introduction-div img {
+            width: 380px;
+            margin-right: 0px !important;
+      }
+
+      #easy-to-use-vector-img {
+            width: 281px;
+      }
+
+      #easy-to-manage-vector-img {
+            width: 350px;
+      }
+
+      #fast-and-reliable-vector-img {
+            width: 292px;
+      }
+
+      #secure-and-unbreakable-vector-img {
+            width: 350px;
+      }
+
+      .about-medcran-div-1 {
+            justify-content: center !important;
+            align-content: center !important;
+      }
+
+      .about-medcran-div-2{
+            justify-content: center !important;
+            align-content: center !important;
+      }
+
+      .about-medcran-box-div p {
+            max-width: 350px;
+      }
+}
+
+@media screen and (max-width: 412px) {
+      .index-main .index-main-introduction-div img {
+            width: 380px;
+      }
+
+      #footer-img {
+            width: 80px;
+      }
+
+      #mail-text {
+            font-size: 1.5rem;
+      }
+}
+/* MEDIA QUERIES END */

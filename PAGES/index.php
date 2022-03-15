@@ -38,12 +38,12 @@
                   
                   <div class="about-medcran-div-1">
                         <div class="about-medcran-box-div">
-                              <img width="281" src="../VECTORS/MedCRAN_EasyToUseVector.svg" alt="Easy To Use">
+                              <img id="easy-to-use-vector-img" width="281" src="../VECTORS/MedCRAN_EasyToUseVector.svg" alt="Easy To Use">
                               <h3 class="h3-purple-text font-weight-300">Easy To Use</h3>
                               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis soluta sit voluptate inventore numquam expedita aliquid perferendis dolores ducimus deserunt!</p>
                         </div>
                         <div class="about-medcran-box-div">
-                              <img width="350" src="../VECTORS/MedCRAN_EasyToManageVector.svg" alt="Easy To Use">
+                              <img id="easy-to-manage-vector-img" width="350" src="../VECTORS/MedCRAN_EasyToManageVector.svg" alt="Easy To Manage">
                               <h3 class="h3-purple-text font-weight-300">Easy To Manage</h3>
                               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis soluta sit voluptate inventore numquam expedita aliquid perferendis dolores ducimus deserunt!</p>
                         </div>
@@ -51,12 +51,12 @@
 
                   <div class="about-medcran-div-2">
                         <div class="about-medcran-box-div">
-                              <img width="292" src="../VECTORS/MedCRAN_FastVector.svg" alt="Easy To Use">
+                              <img id="fast-and-reliable-vector-img" width="292" src="../VECTORS/MedCRAN_FastVector.svg" alt="Fast & Reliable">
                               <h3 class="h3-purple-text font-weight-300">Fast & Reliable</h3>
                               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis soluta sit voluptate inventore numquam expedita aliquid perferendis dolores ducimus deserunt!</p>
                         </div>
                         <div class="about-medcran-box-div">
-                              <img width="350" src="../VECTORS/MedCRAN_SecureVector.svg" alt="Easy To Use">
+                              <img id="secure-and-unbreakable-vector-img" width="350" src="../VECTORS/MedCRAN_SecureVector.svg" alt="Secure & Unbreakable">
                               <h3 class="h3-purple-text font-weight-300">Secure & Unbreakable</h3>
                               <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Corporis soluta sit voluptate inventore numquam expedita aliquid perferendis dolores ducimus deserunt!</p>
                         </div>
@@ -65,8 +65,8 @@
 
             <!-- FOOTER START -->
             <footer>
-                  <img width="100" src="../IMAGES/MedCRAN_Logo.svg" alt="Tails Logo">
-                  <h3 class="h3-purple-text font-weight-300">contact@medcran.com</h3>
+                  <img id="footer-img" width="100" src="../IMAGES/MedCRAN_Logo.svg" alt="Tails Logo">
+                  <h3 id="mail-text" class="h3-purple-text font-weight-300">contact@medcran.com</h3>
             </footer>
             <!-- FOOTER END -->
       </body>
