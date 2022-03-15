@@ -62,5 +62,12 @@
                         </div>
                   </div>
             </main>
+
+            <!-- FOOTER START -->
+            <footer>
+                  <img width="100" src="../IMAGES/MedCRAN_Logo.svg" alt="Tails Logo">
+                  <h3 class="h3-purple-text font-weight-300">contact@medcran.com</h3>
+            </footer>
+            <!-- FOOTER END -->
       </body>
 </html>

@@ -153,6 +153,18 @@ body {
 
 .about-medcran-box-div p {
       max-width: 350px;
-      margin-bottom: 30px;
+      margin-bottom: 10px;
 }
 /* INDEX MAIN END */
+
+/* FOOTER START */
+footer {
+      background-color: rgb(255, 255, 255);
+      padding: 10px 20px;
+      color: rgb(86, 52, 124);
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      border-top: 1px solid rgb(235, 235, 235);
+}
+/* FOOTER END */
