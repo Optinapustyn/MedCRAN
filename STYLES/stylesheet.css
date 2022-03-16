@@ -267,4 +267,42 @@ footer {
             width: 350px;
       }
 }
+
+@media screen and (max-width: 360px) {
+      .index-main .index-main-introduction-div img {
+            width: 330px;
+      }
+
+      #easy-to-use-vector-img {
+            width: 261px;
+      }
+
+      #easy-to-manage-vector-img {
+            width: 330px;
+      }
+
+      #fast-and-reliable-vector-img {
+            width: 272px;
+      }
+
+      #secure-and-unbreakable-vector-img {
+            width: 330px;
+      }
+
+      #footer-img {
+            width: 60px;
+      }
+
+      #mail-text {
+            font-size: 1.25rem;
+      }
+
+      .logo-div {
+            width: 90px;
+      }
+
+      .logo-div h1 {
+            font-size: 2.25rem;
+      }
+}
 /* MEDIA QUERIES END */
