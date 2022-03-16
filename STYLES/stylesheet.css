@@ -305,4 +305,47 @@ footer {
             font-size: 2.25rem;
       }
 }
+
+@media screen and (max-width: 280px) {
+      .logo-div {
+            width: 80px;
+      }
+
+      .logo-div h1 {
+            font-size: 2rem;
+      }
+
+      .index-main .index-main-introduction-div img {
+            width: 260px;
+      }
+
+      .about-medcran-box-div h3 {
+            font-size: 1.5rem;
+      }
+
+      #easy-to-use-vector-img {
+            width: 181px;
+      }
+
+      #easy-to-manage-vector-img {
+            width: 250px;
+      }
+
+      #fast-and-reliable-vector-img {
+            width: 192px;
+      }
+
+      #secure-and-unbreakable-vector-img {
+            width: 250px;
+      }
+
+      #footer-img {
+            width: 50px;
+      }
+
+      #mail-text {
+            font-size: 1rem;
+      }
+
+}
 /* MEDIA QUERIES END */
