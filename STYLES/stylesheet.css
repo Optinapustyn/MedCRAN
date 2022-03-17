@@ -37,6 +37,12 @@ body {
       align-items: center;
 }
 
+#clickable-logo {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+}
+
 .logo-div h1 {
       margin-left: 20px;
 }
@@ -167,6 +173,30 @@ footer {
       border-top: 1px solid rgb(235, 235, 235);
 }
 /* FOOTER END */
+
+/* LOGIN PHP MAIN */
+.login-main {
+      padding: 20px 20px;
+      background-color: rgb(255, 255, 255);
+}
+
+.login-main h1 {
+      margin-bottom: 20px;
+}
+
+#login-form input {
+      padding: 20px;
+      box-shadow: inset 0px 0px 10px 1px rgb(0, 0, 0, 0.2);
+      border-radius: 8px;
+      display: block;
+      width: 100%;
+      margin-bottom: 20px;
+}
+
+#login-form input[type="button"] {
+      cursor: pointer;
+}
+/* LOGIN PHP MAIN */
 
 /* MEDIA QUERIES START */
 @media screen and (max-width: 768px) {
@@ -308,11 +338,11 @@ footer {
 
 @media screen and (max-width: 280px) {
       .logo-div {
-            width: 80px;
+            width: 70px;
       }
 
       .logo-div h1 {
-            font-size: 2rem;
+            font-size: 1.75rem;
       }
 
       .index-main .index-main-introduction-div img {

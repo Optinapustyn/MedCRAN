@@ -15,15 +15,17 @@
       <body>    
             <header class="index-header">
                   <div class="logo-div">
-                        <img width="100" src="../IMAGES/MedCRAN_LogoWhite.svg" alt="">
-                        <h1>MedCRAN</h1>
+                        <a id="clickable-logo" href="index.php">
+                              <img width="100" src="../IMAGES/MedCRAN_LogoWhite.svg" alt="">
+                              <h1>MedCRAN</h1>
+                        </a>
                   </div>
                   <div class="header-inputs">
                         <div class="search-input-div">
                               <input id="search-textbox" placeholder="MedCRAN Engine..." type="text" name="donate-textbox">
                               <a id="search-button" href="#"><img src="../IMAGES/MedCRAN_SearchLogo.svg" alt="Search Icon"></a>
                         </div>
-                        <input id="login-button" type="button" name="login-button" value="Log In">
+                        <a href="login.php"><input id="login-button" type="button" name="login-button" value="Log In"></a>
                   </div>
             </header>
 
