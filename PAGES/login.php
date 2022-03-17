@@ -32,7 +32,6 @@
             <main class="login-main">
                   <h1 class="h1-purple-text font-weight-300">LOGIN</h1>
                   <form id="login-form" action="../SERVER/login_form_script.php" method="POST">
-                        <input type="text" placeholder="Name & Surname" name="name-surname">
                         <input type="text" placeholder="Identity Number" name="identity-number">
                         <input type="text" placeholder="Password" name="password">
                         <input type="button" value="Log In">
